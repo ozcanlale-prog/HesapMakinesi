@@ -81,7 +81,7 @@ Tam fonksiyonel hesap makinesi sistemi
 
 👨‍💻 Geliştirici
 
-Özcan
+Özcan Lale
 
 Bu proje, yazılım geliştirme ve kullanıcı arayüzü tasarımı alanında kendimi geliştirmek amacıyla hazırlanmıştır.
 📚 Not

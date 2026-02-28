@@ -1,94 +1,89 @@
-# 🛒 Alışveriş Sepeti Arayüzü Projesi
+🧮 Hesap Makinesi Arayüzü Projesi
+📌 Proje Hakkında
 
-## 📌 Proje Hakkında
+Bu proje, İletişim ve Sunum Teknikleri dersinde öğrenmiş olduğum modern arayüz tasarımı, kullanıcı etkileşimi ve görsel düzen prensiplerini uygulamak amacıyla geliştirilmiştir. NetBeans IDE kullanılarak Java Swing teknolojisi ile bir Hesap Makinesi uygulamasının kullanıcı arayüzü tasarlanmıştır.
 
-Bu proje, İletişim ve Sunum Teknikleri dersinde edinmiş olduğum modern arayüz tasarımı, kullanıcı etkileşimi ve görsel sunum prensiplerini uygulamak amacıyla geliştirilmiştir. Proje kapsamında, NetBeans IDE kullanılarak Java Swing teknolojisi ile bir alışveriş sepeti uygulamasının kullanıcı arayüzü tasarlanmıştır.
+Bu çalışma, temel hesap makinesi işlemlerini simüle eden bir sistemin arayüz yapısını oluşturmayı hedeflemektedir. Proje sayesinde masaüstü uygulama geliştirme süreci, arayüz bileşenlerinin yönetimi ve kullanıcı odaklı tasarım prensipleri uygulamalı olarak deneyimlenmiştir.
 
-Bu çalışma, gerçek dünya e-ticaret uygulamalarında bulunan alışveriş sepeti sistemlerinin temel arayüz mantığını anlamak ve kullanıcı dostu masaüstü uygulama geliştirme konusunda pratik deneyim kazanmak amacıyla oluşturulmuştur.
+🎯 Projenin Amacı
 
----
+Bu projenin geliştirilmesindeki temel amaçlar:
 
-## 🎯 Projenin Amacı
+Java Swing kullanarak masaüstü uygulama arayüzü geliştirme becerisi kazanmak
 
-Bu projenin temel amaçları şunlardır:
+NetBeans GUI Builder (Drag & Drop) aracını etkin şekilde kullanmak
 
-- Java Swing kullanarak masaüstü uygulama arayüzü geliştirme becerisi kazanmak
-- NetBeans GUI Builder (Drag & Drop) aracını etkin şekilde kullanmak
-- Kullanıcı dostu ve anlaşılır arayüz tasarımı oluşturmak
-- Gerçek dünya alışveriş sepeti sistemlerinin arayüz yapısını simüle etmek
-- Yazılım geliştirme sürecinde görsel tasarım ve kullanıcı etkileşimi prensiplerini uygulamak
-- GitHub kullanarak proje yönetimi ve versiyon kontrolü deneyimi kazanmak
+Kullanıcı dostu ve anlaşılır bir arayüz tasarlamak
 
----
+Hesap makinesi uygulamalarının temel arayüz mantığını anlamak
 
-## 🧰 Kullanılan Teknolojiler
+Yazılım geliştirme sürecinde görsel tasarım prensiplerini uygulamak
 
-- ☕ Java
-- 🧩 Java Swing
-- 🧑‍💻 NetBeans IDE
-- 🎨 NetBeans GUI Builder
-- 🗂️ Git & GitHub
+GitHub kullanarak proje yönetimi ve versiyon kontrolü deneyimi kazanmak
 
----
+🧰 Kullanılan Teknolojiler
 
-## ✨ Özellikler
+☕ Java
+
+🧩 Java Swing
+
+🧑‍💻 NetBeans IDE
+
+🎨 NetBeans GUI Builder
+
+🗂️ Git & GitHub
+
+✨ Özellikler
 
 Bu proje aşağıdaki arayüz bileşenlerini içermektedir:
 
-- 📦 Ürün listeleme sistemi
-- 🖼️ Ürün görsellerinin görüntülenmesi
-- ☑️ Ürün seçme (Checkbox kullanımı)
-- 🔢 Ürün miktarı belirleme (Spinner bileşeni)
-- 🧾 Sepet arayüzü simülasyonu
-- 🎨 Düzenli ve kullanıcı dostu grafiksel arayüz
+🔢 Sayı giriş ve görüntüleme alanı
 
----
+➕➖✖️➗ Temel matematiksel işlem butonları
 
-## 🖥️ Arayüz Tasarımı
+🧹 Temizle (Clear) ve eşittir (=) işlemleri
 
-Arayüz, NetBeans IDE içerisinde bulunan GUI Builder aracı kullanılarak sürükle-bırak yöntemi ile tasarlanmıştır. Bu sayede bileşen yerleşimi, görsel düzen ve kullanıcı etkileşimi prensipleri uygulamalı olarak öğrenilmiştir.
+🎨 Düzenli, sade ve kullanıcı dostu grafiksel arayüz
 
-Arayüz tasarımı sırasında aşağıdaki prensiplere dikkat edilmiştir:
+🖱️ Kullanıcı etkileşimi odaklı buton yerleşimi
 
-- Kullanıcı dostu tasarım
-- Görsel sadelik ve anlaşılabilirlik
-- Düzenli bileşen yerleşimi
-- Etkileşim kolaylığı
+🖥️ Arayüz Tasarımı
 
----
+Arayüz, NetBeans IDE içerisinde bulunan GUI Builder aracı kullanılarak sürükle-bırak yöntemi ile oluşturulmuştur. Bu sayede bileşenlerin düzenlenmesi, kullanıcı etkileşimi ve arayüz tasarımı konularında pratik deneyim kazanılmıştır.
 
-## 🚀 Kazanımlar
+🚀 Kazanımlar
 
-Bu proje sayesinde aşağıdaki teknik beceriler geliştirilmiştir:
+Bu proje sayesinde aşağıdaki beceriler geliştirilmiştir:
 
-- Java Swing ile GUI geliştirme
-- NetBeans GUI Builder kullanımı
-- Masaüstü uygulama arayüzü tasarımı
-- Proje yapısı oluşturma
-- GitHub kullanımı ve proje paylaşımı
+Java Swing ile GUI geliştirme
 
----
+NetBeans GUI Builder kullanımı
 
-## 🔮 Gelecek Geliştirmeler
+Masaüstü uygulama arayüz tasarımı
 
-Projenin ilerleyen aşamalarında aşağıdaki özelliklerin eklenmesi planlanmaktadır:
+Proje yapısı oluşturma ve yönetme
 
-- Toplam fiyat hesaplama sistemi
-- Sepete ürün ekleme ve çıkarma fonksiyonları
-- Dinamik kullanıcı etkileşimi
-- Veritabanı entegrasyonu
-- Tam fonksiyonel alışveriş sepeti sistemi
+GitHub kullanımı ve proje paylaşımı
 
----
+🔮 Gelecek Geliştirmeler
 
-## 👨‍💻 Geliştirici
+Planlanan geliştirmeler:
+
+Daha gelişmiş matematiksel fonksiyonların eklenmesi
+
+Hata kontrolü ve giriş doğrulama
+
+Klavye giriş desteği
+
+Mobil uyumlu veya farklı platformlarda çalışacak sürüm
+
+Tam fonksiyonel hesap makinesi sistemi
+
+👨‍💻 Geliştirici
 
 Özcan
 
-Bu proje, yazılım geliştirme ve kullanıcı arayüzü tasarımı konularında kendimi geliştirmek amacıyla oluşturulmuştur.
+Bu proje, yazılım geliştirme ve kullanıcı arayüzü tasarımı alanında kendimi geliştirmek amacıyla hazırlanmıştır.
+📚 Not
 
----
-
-## 📚 Not
-
-Bu proje eğitim amaçlı geliştirilmiştir ve Java Swing kullanarak GUI geliştirme becerilerini güçlendirmeyi hedeflemektedir.
+Bu proje eğitim amaçlı geliştirilmiştir ve Java Swing ile GUI geliştirme pratiği kazanmayı hedeflemektedir.
